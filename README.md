@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://tammybutle.github.io/.github/tableplus">  
+<a href="https://crissyarp.github.io/.github/tableplus">  
 <img src="https://img.shields.io/badge/GET_TablePlus-darkgreen?style=for-the-badge&logo=apple" alt="GET TablePlus">  
 </a>  
 </div>  
